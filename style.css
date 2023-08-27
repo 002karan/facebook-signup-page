@@ -1,0 +1,142 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+
+}
+html{
+    display: inline;
+}
+body{
+    background-color: #F0F2F5;
+}
+img{
+    width: 290px;
+    height: 106px;
+    position: relative;
+    right: 30px;
+}
+.login
+{
+    background-color: rgb(192, 61, 61);
+    width: 396px;
+    height: 350px;
+    border-radius: 10px;
+}
+.container-2
+{
+    background-color: white;
+width: 396px;
+height: 349px;
+border-radius: 5px;
+  margin:15px;
+  box-shadow: 1px 1px 1px 1px  black;
+  
+    
+}
+#input
+{
+    height: 22px;
+    width: 330px;
+    border: 1px solid #DDDFE2;
+    border-radius: 5px;
+    padding-bottom: 14px;
+padding-left: 16px;
+padding-right: 16px;
+padding-top: 14px;
+    font-size: 15px;
+    margin: 16px;
+}
+#pass
+{
+    height: 22px;
+    width: 330px;
+    border: 1px solid #DDDFE2;
+    border-radius: 5px;
+    padding-bottom: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 14px;
+    font-size: 15px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
+.log-in
+{
+background-color: #1877F2;
+height: 22px;
+width: 330px;
+border-radius: 5px;
+padding-bottom: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 14px;
+    margin:16px
+}
+.log
+{
+    color:white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.Forget
+{
+    display: flex;
+    justify-content: center;
+
+}
+.style
+{
+    background-color: #42B72A;
+    border-radius: 10px;
+    border: transparent;
+    height: 48px;
+    width: 199px;
+    padding: 15px;
+    display: flex;
+    position: relative;
+    justify-content: space-around;
+    top: 15px;
+    left: 110px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+.button
+{
+    display: flex;
+    position: relative;
+    right: 5px
+}
+    
+.container
+{
+    display: flex;
+    position: relative;
+   align-items: center;
+
+}
+.pra
+{
+   display: block;
+   position: relative;
+  left: 200px;
+  bottom: 5px;
+
+   
+}
+.p
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #1C1E21  ;
+    font-weight: 100;
+
+}
+.contain{
+margin-left: 320px;
+margin-top:100px ;
+
+}
